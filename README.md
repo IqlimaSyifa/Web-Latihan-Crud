@@ -1,1 +1,1 @@
-# Web-Latihan-Crud
+http://localhost/latihancrud/
